@@ -1,2 +1,2 @@
-# computer-science
+# USTC-life
 daily course and additional
